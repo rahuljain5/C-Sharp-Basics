@@ -51,10 +51,11 @@ namespace PLT_Programs
         }
         static void FiboPyramid(int Num)
         {
-            int fiboterm1 = 0, fiboterm2 = 1, tempRes = 1;
+             int fiboterm1 = 0, fiboterm2 = 1, tempRes = 1;
+            //Console.WriteLine(tempRes);
             for (int i = 1; i <= Num; i++)
             {
-                for (int j = 1; j <= i; j++)
+                for (int j = 2; j <= i; j++)
                 {
                     Console.Write(tempRes + " ");
                     tempRes = fiboterm1 + fiboterm2;
@@ -64,7 +65,5 @@ namespace PLT_Programs
                     
                 Console.WriteLine();
             }
-            Console.WriteLine();
-        }
     }
 }
