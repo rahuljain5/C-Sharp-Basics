@@ -1,0 +1,50 @@
+D:\TRAINING\PRATIAN\CONTENT\DOTNET\PROJECTS\EightQueensGame\VS2008\EightQueensApplication\EightQueensGame\bin\Debug\EightQueensGame.exe
+D:\TRAINING\PRATIAN\CONTENT\DOTNET\PROJECTS\EightQueensGame\VS2008\EightQueensApplication\EightQueensGame\bin\Debug\EightQueensGame.pdb
+D:\TRAINING\PRATIAN\CONTENT\DOTNET\PROJECTS\EightQueensGame\VS2008\EightQueensApplication\EightQueensGame\obj\Debug\ResolveAssemblyReference.cache
+D:\TRAINING\PRATIAN\CONTENT\DOTNET\PROJECTS\EightQueensGame\VS2008\EightQueensApplication\EightQueensGame\obj\Debug\EightQueensGame.ChessBoard.resources
+D:\TRAINING\PRATIAN\CONTENT\DOTNET\PROJECTS\EightQueensGame\VS2008\EightQueensApplication\EightQueensGame\obj\Debug\EightQueensGame.Properties.Resources.resources
+D:\TRAINING\PRATIAN\CONTENT\DOTNET\PROJECTS\EightQueensGame\VS2008\EightQueensApplication\EightQueensGame\obj\Debug\EightQueensGame.csproj.GenerateResource.Cache
+D:\TRAINING\PRATIAN\CONTENT\DOTNET\PROJECTS\EightQueensGame\VS2008\EightQueensApplication\EightQueensGame\obj\Debug\EightQueensGame.exe
+D:\TRAINING\PRATIAN\CONTENT\DOTNET\PROJECTS\EightQueensGame\VS2008\EightQueensApplication\EightQueensGame\obj\Debug\EightQueensGame.pdb
+C:\Users\admin\Desktop\Eight Queen_CSharp\Eight Queens\VS2008\EightQueensApplication\EightQueensGame\obj\Debug\EightQueensGame.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Eight Queen_CSharp\Eight Queens\VS2008\EightQueensApplication\EightQueensGame\obj\Debug\EightQueensGame.ChessBoard.resources
+C:\Users\admin\Desktop\Eight Queen_CSharp\Eight Queens\VS2008\EightQueensApplication\EightQueensGame\obj\Debug\EightQueensGame.Properties.Resources.resources
+C:\Users\admin\Desktop\Eight Queen_CSharp\Eight Queens\VS2008\EightQueensApplication\EightQueensGame\obj\Debug\EightQueensGame.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Eight Queen_CSharp\Eight Queens\VS2008\EightQueensApplication\EightQueensGame\obj\Debug\EightQueensGame.exe
+C:\Users\admin\Desktop\Eight Queen_CSharp\Eight Queens\VS2008\EightQueensApplication\EightQueensGame\obj\Debug\EightQueensGame.pdb
+C:\Users\admin\Desktop\Eight Queen_CSharp\Eight Queens\VS2008\EightQueensApplication\EightQueensGame\bin\Debug\EightQueensGame.exe.config
+C:\Users\admin\Desktop\Eight Queen_CSharp\Eight Queens\VS2008\EightQueensApplication\EightQueensGame\bin\Debug\EightQueensGame.exe
+C:\Users\admin\Desktop\Eight Queen_CSharp\Eight Queens\VS2008\EightQueensApplication\EightQueensGame\bin\Debug\EightQueensGame.pdb
+D:\Eight Queen_CSharp\Eight Queens\VS2008\EightQueensApplication\EightQueensGame\bin\Debug\EightQueensGame.exe.config
+D:\Eight Queen_CSharp\Eight Queens\VS2008\EightQueensApplication\EightQueensGame\obj\Debug\EightQueensGame.exe
+D:\Eight Queen_CSharp\Eight Queens\VS2008\EightQueensApplication\EightQueensGame\obj\Debug\EightQueensGame.pdb
+D:\Eight Queen_CSharp\Eight Queens\VS2008\EightQueensApplication\EightQueensGame\bin\Debug\EightQueensGame.exe
+D:\Eight Queen_CSharp\Eight Queens\VS2008\EightQueensApplication\EightQueensGame\bin\Debug\EightQueensGame.pdb
+D:\Eight Queen_CSharp\Eight Queens\VS2008\EightQueensApplication\EightQueensGame\obj\Debug\EightQueensGame.csprojResolveAssemblyReference.cache
+D:\Eight Queen_CSharp\Eight Queens\VS2008\EightQueensApplication\EightQueensGame\obj\Debug\EightQueensGame.ChessBoard.resources
+D:\Eight Queen_CSharp\Eight Queens\VS2008\EightQueensApplication\EightQueensGame\obj\Debug\EightQueensGame.Properties.Resources.resources
+D:\Eight Queen_CSharp\Eight Queens\VS2008\EightQueensApplication\EightQueensGame\obj\Debug\EightQueensGame.csproj.GenerateResource.Cache
+D:\Training Materials Pratian\Traning\PLT\puzzle\Eight Queen_CSharp\Eight Queens\VS2008\EightQueensApplication\EightQueensGame\bin\Debug\EightQueensGame.exe.config
+D:\Training Materials Pratian\Traning\PLT\puzzle\Eight Queen_CSharp\Eight Queens\VS2008\EightQueensApplication\EightQueensGame\obj\Debug\EightQueensGame.exe
+D:\Training Materials Pratian\Traning\PLT\puzzle\Eight Queen_CSharp\Eight Queens\VS2008\EightQueensApplication\EightQueensGame\obj\Debug\EightQueensGame.pdb
+E:\Materials\SkillAssure\Iteration - 0\PLT\C#\PLT\EightQueenProblem\Eight Queens - dotNet\Eight Queens\VS2008\EightQueensApplication\EightQueensGame\bin\Debug\EightQueensGame.exe.config
+E:\Materials\SkillAssure\Iteration - 0\PLT\C#\PLT\EightQueenProblem\Eight Queens - dotNet\Eight Queens\VS2008\EightQueensApplication\EightQueensGame\bin\Debug\EightQueensGame.exe
+E:\Materials\SkillAssure\Iteration - 0\PLT\C#\PLT\EightQueenProblem\Eight Queens - dotNet\Eight Queens\VS2008\EightQueensApplication\EightQueensGame\bin\Debug\EightQueensGame.pdb
+E:\Materials\SkillAssure\Iteration - 0\PLT\C#\PLT\EightQueenProblem\Eight Queens - dotNet\Eight Queens\VS2008\EightQueensApplication\EightQueensGame\obj\Debug\EightQueensGame.csprojAssemblyReference.cache
+E:\Materials\SkillAssure\Iteration - 0\PLT\C#\PLT\EightQueenProblem\Eight Queens - dotNet\Eight Queens\VS2008\EightQueensApplication\EightQueensGame\obj\Debug\EightQueensGame.ChessBoard.resources
+E:\Materials\SkillAssure\Iteration - 0\PLT\C#\PLT\EightQueenProblem\Eight Queens - dotNet\Eight Queens\VS2008\EightQueensApplication\EightQueensGame\obj\Debug\EightQueensGame.Properties.Resources.resources
+E:\Materials\SkillAssure\Iteration - 0\PLT\C#\PLT\EightQueenProblem\Eight Queens - dotNet\Eight Queens\VS2008\EightQueensApplication\EightQueensGame\obj\Debug\EightQueensGame.csproj.GenerateResource.cache
+E:\Materials\SkillAssure\Iteration - 0\PLT\C#\PLT\EightQueenProblem\Eight Queens - dotNet\Eight Queens\VS2008\EightQueensApplication\EightQueensGame\obj\Debug\EightQueensGame.csproj.CoreCompileInputs.cache
+E:\Materials\SkillAssure\Iteration - 0\PLT\C#\PLT\EightQueenProblem\Eight Queens - dotNet\Eight Queens\VS2008\EightQueensApplication\EightQueensGame\obj\Debug\EightQueensGame.exe
+E:\Materials\SkillAssure\Iteration - 0\PLT\C#\PLT\EightQueenProblem\Eight Queens - dotNet\Eight Queens\VS2008\EightQueensApplication\EightQueensGame\obj\Debug\EightQueensGame.pdb
+C:\Users\Rahul Jain\Desktop\8 Queens\EightQueensApplication\EightQueensGame\bin\Debug\EightQueensGame.exe.config
+C:\Users\Rahul Jain\Desktop\8 Queens\EightQueensApplication\EightQueensGame\bin\Debug\EightQueensGame.exe
+C:\Users\Rahul Jain\Desktop\8 Queens\EightQueensApplication\EightQueensGame\bin\Debug\EightQueensGame.pdb
+C:\Users\Rahul Jain\Desktop\8 Queens\EightQueensApplication\EightQueensGame\obj\Debug\EightQueensGame.ChessBoard.resources
+C:\Users\Rahul Jain\Desktop\8 Queens\EightQueensApplication\EightQueensGame\obj\Debug\EightQueensGame.Properties.Resources.resources
+C:\Users\Rahul Jain\Desktop\8 Queens\EightQueensApplication\EightQueensGame\obj\Debug\EightQueensGame.csproj.GenerateResource.cache
+C:\Users\Rahul Jain\Desktop\8 Queens\EightQueensApplication\EightQueensGame\obj\Debug\EightQueensGame.csproj.CoreCompileInputs.cache
+C:\Users\Rahul Jain\Desktop\8 Queens\EightQueensApplication\EightQueensGame\obj\Debug\EightQueensGame.exe
+C:\Users\Rahul Jain\Desktop\8 Queens\EightQueensApplication\EightQueensGame\obj\Debug\EightQueensGame.pdb
+C:\Users\Rahul Jain\Desktop\8 Queens\EightQueensApplication\EightQueensGame\bin\Debug\queens-crown-black.jpg
+C:\Users\Rahul Jain\Desktop\8 Queens\EightQueensApplication\EightQueensGame\obj\Debug\EightQueensGame.csprojAssemblyReference.cache
