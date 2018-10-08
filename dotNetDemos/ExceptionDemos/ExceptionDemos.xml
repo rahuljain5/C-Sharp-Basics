@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ExceptionDemos</name>
+    </assembly>
+    <members>
+        <member name="T:ExceptionDemos.Account">
+            <summary>
+            Account Class is used for managing the account info
+            Create an account object for deposit and withdraw operations
+            </summary>
+        </member>
+        <member name="P:ExceptionDemos.Account.Balance">
+            <summary>
+            Get Balance of Account
+            </summary>
+        </member>
+        <member name="M:ExceptionDemos.Account.Deposit(System.Double)">
+            <summary>
+            Deposit amount into account
+            Increase the bal
+            </summary>
+            <exception cref="T:ExceptionDemos.InvalidAmountException">Throws invalid Amount Exception when amount is negative</exception>
+            <param name="amt">Provide positive double value</param>
+        </member>
+        <member name="M:ExceptionDemos.Account.Withdraw(System.Double)">
+            <summary>
+            Withdraw amount from account
+            </summary>
+            <exception cref="T:ExceptionDemos.InsufficientFundsException">Throws invalid Amount Exception when amount is negative</exception>
+            <param name="amt">Provide positive double value</param>
+        </member>
+    </members>
+</doc>

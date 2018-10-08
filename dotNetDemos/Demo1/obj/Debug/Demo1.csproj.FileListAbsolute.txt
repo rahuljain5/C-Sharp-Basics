@@ -1,0 +1,7 @@
+C:\Users\Rahul Jain\source\repos\dotNetDemos\Demo1\bin\Debug\Demo1.exe.config
+C:\Users\Rahul Jain\source\repos\dotNetDemos\Demo1\bin\Debug\Demo1.exe
+C:\Users\Rahul Jain\source\repos\dotNetDemos\Demo1\bin\Debug\Demo1.pdb
+C:\Users\Rahul Jain\source\repos\dotNetDemos\Demo1\obj\Debug\Demo1.csprojAssemblyReference.cache
+C:\Users\Rahul Jain\source\repos\dotNetDemos\Demo1\obj\Debug\Demo1.csproj.CoreCompileInputs.cache
+C:\Users\Rahul Jain\source\repos\dotNetDemos\Demo1\obj\Debug\Demo1.exe
+C:\Users\Rahul Jain\source\repos\dotNetDemos\Demo1\obj\Debug\Demo1.pdb

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TrainTicketConsole.Passenger">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <AssociationLine Name="tickets" Type="TrainTicketConsole.Ticket" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="1.312" Y="1.368" />
+        <Point X="1.312" Y="1.959" />
+        <Point X="1.312" Y="1.959" />
+        <Point X="1.312" Y="2.25" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Passenger.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="tickets" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="TrainTicketConsole.Train">
+    <Position X="5" Y="2.25" Width="1.5" />
+    <AssociationLine Name="Passengers" Type="TrainTicketConsole.Passenger" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5" Y="2.813" />
+        <Point X="2.75" Y="2.813" />
+        <Point X="2.75" Y="2" />
+        <Point X="1.75" Y="2" />
+        <Point X="1.75" Y="1.368" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Train.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="Passengers" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="TrainTicketConsole.TicketManagementSystem">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAEAAAAAAAAAAAAAAAEAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TicketManagementSystem.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="Trains" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="TrainTicketConsole.Ticket" Collapsed="true">
+    <Position X="1" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ticket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

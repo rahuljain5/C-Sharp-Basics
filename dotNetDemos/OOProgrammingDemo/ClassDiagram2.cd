@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OOProgrammingDemo.Address" Collapsed="true">
+    <Position X="4.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAIAAAAAAAAAAAAAAAgAAAAQQAAAAA=</HashCode>
+      <FileName>Address.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOProgrammingDemo.Branch" Collapsed="true">
+    <Position X="0.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Branch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOProgrammingDemo.BranchManager" Collapsed="true">
+    <Position X="3" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>BranchManager.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Branch" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="OOProgrammingDemo.Company" Collapsed="true">
+    <Position X="2.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Company.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="people" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="OOProgrammingDemo.Customer" Collapsed="true">
+    <Position X="0.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOProgrammingDemo.Employee" Collapsed="true">
+    <Position X="3" Y="8.25" Width="1.5" />
+    <AssociationLine Name="TheSalaryCalculator" Type="OOProgrammingDemo.SalaryCalculator">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.245" Y="0.033" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="TheSalaryCalculator" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="OOProgrammingDemo.Person" Collapsed="true">
+    <Position X="2" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAQAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Address" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="OOProgrammingDemo.Program" Collapsed="true">
+    <Position X="4" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOProgrammingDemo.SalaryCalculator" Collapsed="true">
+    <Position X="5.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SalaryCalculator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOProgrammingDemo.SalesPerson" Collapsed="true">
+    <Position X="5.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>SalesPerson.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOProgrammingDemo.Excercise.Art" Collapsed="true">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Excercise\Art.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOProgrammingDemo.Excercise.Asset" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAIAAAAAAAAAABQAAAAAAQAAAAAAAAAEAAA=</HashCode>
+      <FileName>Excercise\Asset.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOProgrammingDemo.Excercise.Building" Collapsed="true">
+    <Position X="0.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAEAAA=</HashCode>
+      <FileName>Excercise\Building.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOProgrammingDemo.Excercise.Invest" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Excercise\Invest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOProgrammingDemo.Excercise.Property" Collapsed="true">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAFAAA=</HashCode>
+      <FileName>Excercise\Property.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOProgrammingDemo.Excercise.Stock" Collapsed="true">
+    <Position X="4.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAQAAAAAAAAAAAAAAAAAAAQAAAAAAAAAECAA=</HashCode>
+      <FileName>Excercise\Stock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOProgrammingDemo.IDEProblem.IDE" Collapsed="true">
+    <Position X="14" Y="5.75" Width="1.5" />
+    <AssociationLine Name="Languages" Type="OOProgrammingDemo.IDEProblem.ILanguage" FixedFromPoint="true">
+      <Path>
+        <Point X="15.5" Y="6" />
+        <Point X="17" Y="6" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>IDEProblem\IDE.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="Languages" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="OOProgrammingDemo.IDEProblem.LanguageC" Collapsed="true">
+    <Position X="14.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>IDEProblem\LanguageC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOProgrammingDemo.IDEProblem.LanguageCSharp" Collapsed="true">
+    <Position X="19" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>IDEProblem\LanguageCSharp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOProgrammingDemo.IDEProblem.LanguageJava" Collapsed="true">
+    <Position X="21.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>IDEProblem\LanguageJava.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOProgrammingDemo.IDEProblem.OOLanguage" Collapsed="true">
+    <Position X="20.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>IDEProblem\OOLanguage.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OOProgrammingDemo.IDEProblem.ProceduralLanguage" Collapsed="true">
+    <Position X="14.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>IDEProblem\ProceduralLanguage.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OOProgrammingDemo.IDEProblem.Program" Collapsed="true">
+    <Position X="19.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>IDEProblem\Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOProgrammingDemo.Polymorphism.Polymorphism" Collapsed="true">
+    <Position X="16.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAABAAAAAA=</HashCode>
+      <FileName>Polymorphism\Polymorphism.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOProgrammingDemo.Polymorphism.Circle" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Polymorphism\Polymorphism.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OOProgrammingDemo.Polymorphism.Triangle" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Polymorphism\Polymorphism.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OOProgrammingDemo.Polymorphism.Rectangle" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Polymorphism\Polymorphism.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OOProgrammingDemo.IDEProblem.LanguageBasic" Collapsed="true">
+    <Position X="12.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>IDEProblem\LanguageBasic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOProgrammingDemo.IDEProblem.LanguageCPP" Collapsed="true">
+    <Position X="17" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAgAAAgAAAAAAAAAAAAAAAAAAAABAAAAAABAA=</HashCode>
+      <FileName>IDEProblem\LanguageCPP.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="objectOriented" />
+      <Field Name="procedural" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="OOProgrammingDemo.IDEProblem.ILanguage" Collapsed="true">
+    <Position X="17" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>IDEProblem\ILanguage.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OOProgrammingDemo.Polymorphism.IShape" Collapsed="true">
+    <Position X="15.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Polymorphism\Polymorphism.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

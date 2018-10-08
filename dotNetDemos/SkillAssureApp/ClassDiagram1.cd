@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SkillAssureApp.Program" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkillAssureApp.SkillAssureTrainingModel" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <AssociationLine Name="Iterations" Type="SkillAssureApp.Iteration">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.077" Y="0.06" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAIIAAAAAAAAAQAgAAAAACAA=</HashCode>
+      <FileName>SkillAssureTrainingModel.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Iterations" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SkillAssureApp.Iteration" Collapsed="true">
+    <Position X="3" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAIAAAAAAIBAAAAAAAAACIAEAAAAAAAAAAA=</HashCode>
+      <FileName>Iteration.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Course" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="Assessments" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="SkillAssureApp.Course" Collapsed="true">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <AssociationLine Name="Assessments" Type="SkillAssureApp.Assessment" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="4.25" Y="3.159" />
+        <Point X="6.375" Y="3.159" />
+        <Point X="6.375" Y="2.562" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAQAgAAAAAAAQAAAAAAIAAAAAAAAAIQAA=</HashCode>
+      <FileName>Course.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Assessments" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="SkillAssureApp.Assessment" Collapsed="true">
+    <Position X="6.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAIAAAEAAIAAAAAAIAAAAAAAEAAAAQAIAAAA=</HashCode>
+      <FileName>Assessment.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Questions" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="SkillAssureApp.Question" Collapsed="true">
+    <Position X="6.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Question.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkillAssureApp.MCQuestion" Collapsed="true">
+    <Position X="4.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAIBwAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MCQuestion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkillAssureApp.HandsOnQuestion" Collapsed="true">
+    <Position X="6.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>HandsOnQuestion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

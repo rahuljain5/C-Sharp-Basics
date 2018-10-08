@@ -1,0 +1,7 @@
+There is a ticketing management system where a passenger books a ticket for a train and makes the payment.
+
+Design the OO model for the above problem statement and implement the code to
+
+•	List the total amount collected
+•	List all the tickets for a passenger
+•	List all passenger for a train
