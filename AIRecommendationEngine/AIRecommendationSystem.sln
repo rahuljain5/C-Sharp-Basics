@@ -1,0 +1,101 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecommendationConsoleApp", "RecommendationConsoleApp\RecommendationConsoleApp.csproj", "{C3B51368-6AAE-4DE3-8793-036EB85EF20F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIRecommendation.CoreEngine", "AIRecommendationEngine.BusinessLayer\AIRecommendation.CoreEngine.csproj", "{BFDF4C09-0670-4C6F-A6B9-685B780F3E04}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CoreEngine", "CoreEngine", "{74956B19-3442-4DBA-9E54-5B20F918B686}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIRecommendationSystem.CoreEngine.UnitTest", "AIRecommendationSystem.CoreEngine.UnitTest\AIRecommendationSystem.CoreEngine.UnitTest.csproj", "{D470CD5E-2092-43FD-AF03-DA282C9E628C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Entities", "Entities", "{BCAF665D-095A-4FC3-BB87-9D9C0179A616}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIRecommendationSystem.Entities", "AIRecommendationSystem.Entities\AIRecommendationSystem.Entities.csproj", "{18F9C092-686B-425A-8C7C-A5FA893E5C4B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data Access", "Data Access", "{59B94BC4-2C15-4FB6-BBCF-FC65D508651C}"
+	ProjectSection(SolutionItems) = preProject
+		AIRecommendationEngine.Recommender\DataLoaderFactory.cs = AIRecommendationEngine.Recommender\DataLoaderFactory.cs
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIRecommendationSystem.DataAccess", "AIRecommendationSystem.DataAccess\AIRecommendationSystem.DataAccess.csproj", "{D7451C9C-6E3D-45DD-BB9D-7688513CD69D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{A6681D4A-7D4A-47B9-8EFE-38CFA3380E48}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\AI Case Study\Data\BX-Book-Ratings.csv = ..\..\..\Desktop\AI Case Study\Data\BX-Book-Ratings.csv
+		..\..\..\Desktop\AI Case Study\Data\BX-Books.csv = ..\..\..\Desktop\AI Case Study\Data\BX-Books.csv
+		..\..\..\Desktop\AI Case Study\Data\BX-Users.csv = ..\..\..\Desktop\AI Case Study\Data\BX-Users.csv
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIRecommendationEngine.DataTransfer", "AIRecommendationEngine.DataTransfer\AIRecommendationEngine.DataTransfer.csproj", "{0A9CB3D8-D7B9-4DF6-82CA-83C164BD4333}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business Logic", "Business Logic", "{8F2DD7D2-254D-4871-BB9F-08D6DE4D22FB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Recommendation Engine", "Recommendation Engine", "{56FA7A71-E30B-4BEE-8E20-6F03B800C7F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIRecommendationEngine.Recommender", "AIRecommendationEngine.Recommender\AIRecommendationEngine.Recommender.csproj", "{031EC1BD-FE6B-419B-B6BD-94A672F5A360}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data Transfer", "Data Transfer", "{69D32B3A-63A1-4821-AA3C-68557BF4CF12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIRecommendationEngine.DataTransferObject", "AIRecommendationEngine.DataTransferObject\AIRecommendationEngine.DataTransferObject.csproj", "{CA324C90-2FEA-493D-8EFD-834A4045D1B8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{834569EF-998C-4F48-A555-B01D1DAFBFE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3B51368-6AAE-4DE3-8793-036EB85EF20F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3B51368-6AAE-4DE3-8793-036EB85EF20F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3B51368-6AAE-4DE3-8793-036EB85EF20F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3B51368-6AAE-4DE3-8793-036EB85EF20F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFDF4C09-0670-4C6F-A6B9-685B780F3E04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFDF4C09-0670-4C6F-A6B9-685B780F3E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFDF4C09-0670-4C6F-A6B9-685B780F3E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFDF4C09-0670-4C6F-A6B9-685B780F3E04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D470CD5E-2092-43FD-AF03-DA282C9E628C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D470CD5E-2092-43FD-AF03-DA282C9E628C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D470CD5E-2092-43FD-AF03-DA282C9E628C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D470CD5E-2092-43FD-AF03-DA282C9E628C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18F9C092-686B-425A-8C7C-A5FA893E5C4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18F9C092-686B-425A-8C7C-A5FA893E5C4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18F9C092-686B-425A-8C7C-A5FA893E5C4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18F9C092-686B-425A-8C7C-A5FA893E5C4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7451C9C-6E3D-45DD-BB9D-7688513CD69D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7451C9C-6E3D-45DD-BB9D-7688513CD69D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7451C9C-6E3D-45DD-BB9D-7688513CD69D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7451C9C-6E3D-45DD-BB9D-7688513CD69D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A9CB3D8-D7B9-4DF6-82CA-83C164BD4333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A9CB3D8-D7B9-4DF6-82CA-83C164BD4333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A9CB3D8-D7B9-4DF6-82CA-83C164BD4333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A9CB3D8-D7B9-4DF6-82CA-83C164BD4333}.Release|Any CPU.Build.0 = Release|Any CPU
+		{031EC1BD-FE6B-419B-B6BD-94A672F5A360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{031EC1BD-FE6B-419B-B6BD-94A672F5A360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{031EC1BD-FE6B-419B-B6BD-94A672F5A360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{031EC1BD-FE6B-419B-B6BD-94A672F5A360}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA324C90-2FEA-493D-8EFD-834A4045D1B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA324C90-2FEA-493D-8EFD-834A4045D1B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA324C90-2FEA-493D-8EFD-834A4045D1B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA324C90-2FEA-493D-8EFD-834A4045D1B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C3B51368-6AAE-4DE3-8793-036EB85EF20F} = {834569EF-998C-4F48-A555-B01D1DAFBFE0}
+		{BFDF4C09-0670-4C6F-A6B9-685B780F3E04} = {74956B19-3442-4DBA-9E54-5B20F918B686}
+		{D470CD5E-2092-43FD-AF03-DA282C9E628C} = {74956B19-3442-4DBA-9E54-5B20F918B686}
+		{18F9C092-686B-425A-8C7C-A5FA893E5C4B} = {BCAF665D-095A-4FC3-BB87-9D9C0179A616}
+		{D7451C9C-6E3D-45DD-BB9D-7688513CD69D} = {59B94BC4-2C15-4FB6-BBCF-FC65D508651C}
+		{0A9CB3D8-D7B9-4DF6-82CA-83C164BD4333} = {8F2DD7D2-254D-4871-BB9F-08D6DE4D22FB}
+		{031EC1BD-FE6B-419B-B6BD-94A672F5A360} = {56FA7A71-E30B-4BEE-8E20-6F03B800C7F3}
+		{CA324C90-2FEA-493D-8EFD-834A4045D1B8} = {69D32B3A-63A1-4821-AA3C-68557BF4CF12}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {102F450D-1259-499B-99D8-632A223935C2}
+	EndGlobalSection
+EndGlobal
